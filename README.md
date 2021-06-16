@@ -6,7 +6,7 @@ To install zig:
 
 ```sh
 # add scoop bucket
-scoop bucket add scoop-clojure https://github.com/enndubyu/scoop-zig
+scoop bucket add scoop-zig https://github.com/enndubyu/scoop-zig
 
 #install zig
 scoop install zig

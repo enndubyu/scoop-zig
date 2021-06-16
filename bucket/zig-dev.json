@@ -33,5 +33,6 @@
                 "extract_dir": "zig-windows-x86_64-$version"
             }
         }
-    }
+    },
+    "post_install": [ "if (Test-Path \"$(appdir zig)\\current\\zig.exe\") { scoop reset zig }" ]
 }
