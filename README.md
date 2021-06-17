@@ -15,3 +15,4 @@ scoop install zig
 ## Tools in this bucket:
 - **zig** - *zig compiler* 
 - **zig-dev** - *zig compiler (development version)*
+- **zls** - *language server for zig*
