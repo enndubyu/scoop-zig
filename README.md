@@ -8,7 +8,7 @@ To install zig:
 # add scoop bucket
 scoop bucket add scoop-zig https://github.com/enndubyu/scoop-zig
 
-#install zig
+# install zig
 scoop install zig
 ```
 
