@@ -1,5 +1,5 @@
 {
-    "version": "0.2.0",
+    "version": "0.9.0",
     "description": "Language server for zig.",
     "homepage": "https://github.com/zigtools/zls",
     "license": "MIT",
@@ -11,13 +11,13 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zigtools/zls/releases/download/0.2.0/x86_64-windows.tar.xz",
-            "hash": "2efc180b2e20d92118ce45a1bcb1b2c0abcbb5c65f298a5f480bd7bed5648f3f",
+            "url": "https://github.com/zigtools/zls/releases/download/0.9.0/x86_64-windows.tar.xz",
+            "hash": "70d6a62ebba80736db65481a96ee3bc429e711a5d70188555e8e038a99d026e3",
             "extract_dir": "x86_64-windows"
         },
         "32bit": {
-            "url": "https://github.com/zigtools/zls/releases/download/0.2.0/i386-windows.tar.xz",
-            "hash": "423737a00b3a0e08776c5e652284284eba7d1824c63b9d077fcc48ec7b8bcf91",
+            "url": "https://github.com/zigtools/zls/releases/download/0.9.0/i386-windows.tar.xz",
+            "hash": "bff7d7ca7bd3bec241668033ed04c0cd1842590a787b60e79a83d605f1434778",
             "extract_dir": "i386-windows"
         }
     },
