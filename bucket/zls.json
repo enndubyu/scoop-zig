@@ -27,11 +27,11 @@
         "architecture": {
             "64bit": {
                 "url": "https://github.com/zigtools/zls/releases/download/$version/x86_64-windows.tar.xz",
-                "extract_dir": "x86_64-windows"
+                "extract_dir": "bin"
             },
             "32bit": {
                 "url": "https://github.com/zigtools/zls/releases/download/$version/i386-windows.tar.xz",
-                "extract_dir": "i386-windows"
+                "extract_dir": "bin"
             }
         },
         "hash": {
