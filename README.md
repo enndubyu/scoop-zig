@@ -1,6 +1,6 @@
 # scoop-zig
 
-A scoop bucket for the zig compiler and related tools.
+A scoop bucket for the zig compiler and related tools. Feel free to create an issue requesting any useful zig tools that are missing from the bucket.
 
 To install zig:
 
