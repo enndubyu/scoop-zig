@@ -3,7 +3,7 @@
     "description": "Language server for zig.",
     "homepage": "https://github.com/zigtools/zls",
     "license": "MIT",
-    "depends": {
+    "suggest": {
         "zig": [
             "scoop-zig/zig",
             "scoop-zig/zig-dev"
