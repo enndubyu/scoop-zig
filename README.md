@@ -1,4 +1,5 @@
 # scoop-zig
+[![Build status](https://ci.appveyor.com/api/projects/status/7tl21hvdnb3ysl36?svg=true)](https://ci.appveyor.com/project/enndubyu/scoop-zig)
 
 A scoop bucket for the zig compiler and related tools. Feel free to create an issue requesting any useful zig tools that are missing from the bucket.
 
