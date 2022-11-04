@@ -1,5 +1,5 @@
 {
-    "version": "0.9.0",
+    "version": "0.10.0",
     "description": "Language server for zig.",
     "homepage": "https://github.com/zigtools/zls",
     "license": "MIT",
@@ -11,13 +11,13 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zigtools/zls/releases/download/0.9.0/x86_64-windows.tar.xz",
-            "hash": "70d6a62ebba80736db65481a96ee3bc429e711a5d70188555e8e038a99d026e3",
+            "url": "https://github.com/zigtools/zls/releases/download/0.10.0/x86_64-windows.tar.zst",
+            "hash": "d7b21059eb5bf15197fbb9b74791921393f778fc180b13f1d1f502136da53598",
             "extract_dir": "bin"
         },
         "32bit": {
-            "url": "https://github.com/zigtools/zls/releases/download/0.9.0/i386-windows.tar.xz",
-            "hash": "bff7d7ca7bd3bec241668033ed04c0cd1842590a787b60e79a83d605f1434778",
+            "url": "https://github.com/zigtools/zls/releases/download/0.10.0/i386-windows.tar.zst",
+            "hash": "899be7b5300b59c1078620a4508665527009bd86b791ffc05f6cad903ab15580",
             "extract_dir": "bin"
         }
     },
@@ -26,17 +26,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/zigtools/zls/releases/download/$version/x86_64-windows.tar.xz",
+                "url": "https://github.com/zigtools/zls/releases/download/$version/x86_64-windows.tar.zst",
                 "extract_dir": "bin"
             },
             "32bit": {
-                "url": "https://github.com/zigtools/zls/releases/download/$version/i386-windows.tar.xz",
+                "url": "https://github.com/zigtools/zls/releases/download/$version/i386-windows.tar.zst",
                 "extract_dir": "bin"
             }
-        },
-        "hash": {
-            "url": "https://ziglang.org/download/",
-            "regex": "(?sm)$basename.*?$sha256"
         }
     }
 }
