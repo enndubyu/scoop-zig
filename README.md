@@ -16,6 +16,7 @@ scoop install zig
 ## Tools in this bucket:
 - **zig** - *zig compiler* 
 - **zig-dev**[^1] - *zig compiler (development version)*
+- **zig-mach** - *zig compiler (machs nominated zig version)*
 - **zls** - *language server for zig*
 
 [^1]: zig-dev is aliased as both *zig* and *zig-dev* unless zig stable is also installed (in which case *zig* will execute zig stable)
