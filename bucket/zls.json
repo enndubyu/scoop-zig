@@ -26,12 +26,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/zigtools/zls/releases/download/$version/zls-x86_64-windows.zip",
-                "extract_dir": "bin"
+                "url": "https://github.com/zigtools/zls/releases/download/$version/zls-x86_64-windows.zip"
             },
             "32bit": {
-                "url": "https://github.com/zigtools/zls/releases/download/$version/zls-x86-windows.zip",
-                "extract_dir": "bin"
+                "url": "https://github.com/zigtools/zls/releases/download/$version/zls-x86-windows.zip"
             }
         }
     }
