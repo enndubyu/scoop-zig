@@ -1,3 +1,6 @@
+**[DEPRECATED]** 
+This repository is no longer being maintained as of 1/28/2026. I recommend switching to the `main/zig` and `versions/zig-dev` from the official scoop buckets. 
+
 # :zap: scoop-zig :zap:
 
 [![Build status](https://ci.appveyor.com/api/projects/status/7tl21hvdnb3ysl36?svg=true)](https://ci.appveyor.com/project/enndubyu/scoop-zig)
